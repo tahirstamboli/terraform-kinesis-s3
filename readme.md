@@ -1,0 +1,1 @@
+https://cevo.com.au/post/terraform-streaming-data-into-snowflake-via-kinesis
