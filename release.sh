@@ -45,4 +45,4 @@ git branch -d $releaseBranch
 
 git push --tags
 
-git push orgin $masterBranch
+git push origin $masterBranch
