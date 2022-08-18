@@ -44,3 +44,5 @@ git merge --no-ff $releaseBranch
 git branch -d $releaseBranch
 
 git push --tags
+
+git push orgin $masterBranch
